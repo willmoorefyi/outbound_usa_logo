@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="logo-graphic">
+    <g id="text-large-x-top-svg" x="0" y="-87" transform="matrix(0.5336417,0,0,0.5336417,224.99472,225.78357)" style="fill:#000000">
+      <path id="c" d="m 447.219,156.647 c -0.376,-0.79 -0.937,-1.49 -1.727,-2.025 -1.318,-0.892 -2.802,-0.81 -2.802,-0.81 l -64.747,0 c -9.503,-5.904 -36.466,-26.274 -36.466,-67.415 0,-33.37 17.771,-53.097 29.593,-62.517 0.007,-0.014 0.014,-0.02 0.026,-0.026 1.165,-0.923 1.936,-2.344 1.936,-3.948 0,-0.937 -0.268,-1.815 -0.726,-2.561 l 0,-0.02 -6.797,-12.841 c -14.07,9.503 -43.007,34.79 -43.007,81.912 0,62.218 50.511,86.384 50.511,86.384 l 82.925,0 -8.7,-16.108 c 0,0 -0.019,-0.013 -0.019,-0.025 z" style="fill:#000000" />
+      <use xlink:href="#c" transform="matrix(-1,0,0,-1,842,172)" id="use3440" x="0" y="0" width="100%" height="100%" style="fill:#000000" />
+      <path id="i" d="m 398.841,43.007 -9.854,0 0,44.357 14.338,0 0,-39.631 c 0,-2.611 -2.013,-4.726 -4.484,-4.726 z" style="fill:#000000" />
+      <use xlink:href="#i" transform="translate(52,0)" id="use3443" x="0" y="0" width="100%" height="100%" style="fill:#000000" />
+      <path d="m 439.009,113.83 0,-5.694 -34.816,0 0,5.694 c 0,9.427 7.79,17.09 17.401,17.09 9.612,0 17.415,-7.663 17.415,-17.09 z" id="path3445" style="fill:#000000" />
+    </g>
+    <g id="base">
+        <g id="outline-circle-svg">
+            <circle fill="none" stroke="#000000" stroke-width="10" cx="450" cy="375" r="262.448" id="circle3449" />
+        </g>
+    </g>
+    <g id="swag">
+        <g id="x-solid-line-svg">
+            <line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" x1="337.327" y1="262.329" x2="562.672" y2="487.674" id="line3453" />
+            <line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" x1="337.327" y1="487.674" x2="562.672" y2="262.329" id="line3455" />
+        </g>
+        <g id="outline-solid-svg">
+            <circle fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="450.001" cy="375" r="248.475" id="circle3458" />
+        </g>
+    </g>
+    <g id="text">
+        <g id="text-large-x-svg" transform="translate(450,402)" text-anchor="middle" font-family="impact" fill="#000000" font-size="70">
+            <text id="text-large-x-right-svg" x="87" y="0">A</text>
+            <text id="text-large-x-bottom-svg" x="0" y="87">S</text>
+            <text id="text-large-x-left-svg" x="-87" y="0">U</text>
+        </g>
+        <g id="text-lower-arch-svg" transform="translate(0,0)" text-anchor="middle" font-family="impact" fill="#000000" letter-spacing="3px" font-size="32">
+            <path id="text-lower-arch-path" fill="none" d="M643.81,375c0-107.039-86.771-193.81-193.809-193.81c-107.04,0-193.811,86.772-193.811,193.81s86.772,193.81,193.811,193.81C557.038,568.81,643.81,482.038,643.81,375z" />
+            <text id="text3467">
+                <textPath id="text-lower-arch-textpath-svg" xlink:href="#text-lower-arch-path" alignment-baseline="hanging" startOffset="75%">2016-2016</textPath>
+            </text>
+        </g>
+    </g>
+</svg>
